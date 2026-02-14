@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+EDUDASH
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [CODEPAIR]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Chaithanya k I - kannur university,dept of IT
+- Member 2: Sreelaya c - kannur university,dept of IT
 
 ### Hosted Project Link
 [mention your project hosted link here]
@@ -19,10 +19,10 @@
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What problem are you solving?]
+In todays accademic world students faces multiple problems such as don not track daily studt and cannot analysis mocktest6 performance  etc
 
 ### The Solution
-[How are you solving it?]
+This website help students to track study hours daily
 
 ---
 
@@ -46,10 +46,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: graph help us to understand our improvement
+- Feature 2: attractive and impressive
+- Feature 3: timetable creater
+- Feature 4: prepare mocktests
 
 ---
 
